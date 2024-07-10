@@ -1,0 +1,13 @@
+.container{
+  display: flex;
+  gap: 34px;
+  flex-wrap: wrap;
+}
+.container .cards{
+  border: 2px solid #000;
+  max-width: 23vw;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 25px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

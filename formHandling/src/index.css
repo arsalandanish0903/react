@@ -1,0 +1,13 @@
+.parentForm{
+  height: 300px;
+  width: 300px;
+  background-color: beige;
+  padding: 25px;
+}
+.parentForm label{
+  display: block;
+  margin: 10px;
+}
+.parentForm label input{
+  width: 150px;
+}
